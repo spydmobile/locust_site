@@ -1,0 +1,12 @@
+/*! CSS Used from: Embedded ; media=all */
+@media all{
+    /*! @import css/html-elements.css?qy1iyi */
+    p{margin:0 0 1.5em;padding:0;}
+    /*! end @import */
+    
+    }
+
+    html *
+    {
+        font-family: 'Open Sans',Helvetica Neue,Arial,Sans-serif;
+    }
